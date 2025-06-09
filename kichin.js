@@ -1,0 +1,1 @@
+console.log("kicho toma clonas")
